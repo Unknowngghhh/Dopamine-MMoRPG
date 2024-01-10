@@ -1,0 +1,10 @@
+#Pocketmine Files
+PocketMine-MP.phar
+
+#PHPStorm Files
+.idea
+
+!.idea/codeStyles
+
+!.idea/fileTemplates
+!.idea/fileTemplates/internal
